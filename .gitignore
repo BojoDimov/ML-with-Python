@@ -1,0 +1,14 @@
+
+data/lol-simple/
+
+\.ipynb_checkpoints/
+
+data/lol-detailed/stats2\.csv
+
+data/lol-detailed/teambans\.csv
+
+data/lol-detailed/teamstats\.csv
+
+data/lol-detailed/champs\.csv
+
+data/lol-detailed/matches\.csv
